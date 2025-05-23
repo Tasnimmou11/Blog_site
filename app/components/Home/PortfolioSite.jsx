@@ -29,15 +29,15 @@ const PortfolioSite = () => {
                 </li>
             </ul>
             <div className='grid grid-cols-3 gap-7 mt-10'>
-                <Image src="/brand1.png"alt='brand1' width={0} height={0}  className='max-w-full'/>
-                 <Image src="/brand2.png"alt='brand2' width={350} height={291}  className='max-w-full' />
-                <Image src="/brand3.png"alt='brand3' width={350} height={291}  className='max-w-full'/>
-                <Image src="/brand4.png"alt='brand4' width={350} height={291}  className='max-w-full'/>
-                <Image src="/brand5.png"alt='brand5' width={350} height={291}  className='max-w-full'/>
-                <Image src="/brand6.png"alt='brand6' width={350} height={291}  className='max-w-full'/>
-                <Image src="/brand7.png"alt='brand7' width={350} height={291}  className='max-w-full'/>
-                <Image src="/brand8.png"alt='brand8' width={350} height={291} className='max-w-full' />
-                <Image src="/brand9.png"alt='brand9' width={350} height={291}  className='max-w-full'/>
+                <Image src="/brand1.png"alt='brand1' width={350} height={291} layout='responsive'/>
+                 <Image src="/brand2.png"alt='brand2' width={350} height={291}  layout='responsive' />
+                <Image src="/brand3.png"alt='brand3' width={350} height={291}  layout='responsive'/>
+                <Image src="/brand4.png"alt='brand4' width={350} height={291}  layout='responsive'/>
+                <Image src="/brand5.png"alt='brand5' width={350} height={291}  layout='responsive'/>
+                <Image src="/brand6.png"alt='brand6' width={350} height={291}  layout='responsive'/>
+                <Image src="/brand7.png"alt='brand7' width={350} height={291}  layout='responsive'/>
+                <Image src="/brand8.png"alt='brand8' width={350} height={291} layout='responsive'/>
+                <Image src="/brand9.png"alt='brand9' width={350} height={291}  layout='responsive'/>
 
                   
             </div>
